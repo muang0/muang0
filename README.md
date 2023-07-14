@@ -7,6 +7,9 @@ _|"""""|_|"""""| {======|_| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 "`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 ```
 
+## ✌️
+https://static.jamesdevsite.com/
+
 ## 🎯
 Expanding puzzles supported in [shapesie](https://crates.io/crates/shapesie)
 
