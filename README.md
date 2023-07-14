@@ -1,4 +1,24 @@
-### Hi there 👋
+## Hi friend 👋
+
+## 🎯
+Expanding puzzles supported in [shapesie](https://crates.io/crates/shapesie)
+
+Coding crossword puzzle algo
+
+## 📚
+Rust
+
+🕸🕸🕸
+
+## 💬
+🏍
+
+🕷
+
+🕸🕸🕸
+
+## 😄
+They/Them
 
 <!--
 **muang0/muang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
