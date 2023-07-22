@@ -13,8 +13,6 @@ https://static.jamesdevsite.com/
 ## 🎯
 Expanding puzzles supported in [shapesie](https://crates.io/crates/shapesie)
 
-Coding crossword puzzle algo
-
 ## 📚
 Rust
 
