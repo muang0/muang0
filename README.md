@@ -11,7 +11,7 @@ _|"""""|_|"""""| {======|_| """ |_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 https://static.jamesdevsite.com/
 
 ## 🎯
-Expanding puzzles supported in [shapesie](https://crates.io/crates/shapesie)
+💡🏡
 
 ## 📚
 Rust
